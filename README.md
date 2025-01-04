@@ -1,5 +1,12 @@
 # Astro Starter Kit: Basics
 
+supabase
+URL
+https://gnhbyakkarqyxepsmmqp.supabase.co
+
+KEY
+eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImduaGJ5YWtrYXJxeXhlcHNtbXFwIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzU5ODA2MjcsImV4cCI6MjA1MTU1NjYyN30.Zcq61YEraPh7wnpf3kXMuHXG9kLvkvxgdeykL_c2h1w
+
 ```sh
 npm create astro@latest -- --template basics
 ```
